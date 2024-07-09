@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="top_bar_images_title">Gallery</string>
+    <string name="top_bar_button">Delete %d</string>
+
+    <string name="delete_dialog_delete_button">Delete</string>
+    <string name="delete_dialog_back_button">Back</string>
+
+    <plurals name="delete_dialog_title">
+        <item quantity="one" formatted="true">Delete %d image?</item>
+        <item quantity="other" formatted="true">Delete %d images?</item>
+    </plurals>
+
+    <string name="delete_dialog_description">Deleting notes can\'t be undone.</string>
+
+</resources>
